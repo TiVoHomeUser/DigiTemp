@@ -18,4 +18,5 @@
 ![Graph]( https://github.com/TiVoHomeUser/DigiTemp/blob/master/images/DigiTemp5.png )
 
  Live:
-
+ 2 self signed jar files requires Java plugin in browser
+ http://b3c-lc.com/digitemp/Sensor0/DigiTempDisplayF.html
