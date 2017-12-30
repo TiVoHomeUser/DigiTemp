@@ -15,7 +15,7 @@
 ![Settings]( https://github.com/TiVoHomeUser/DigiTemp/blob/master/images/DigiTemp3.png )
 
  Graph:
-![Graph]( https://github.com/TiVoHomeUser/DigiTemp/blob/master/images/DigiTemp5.png )
+![Graph]( https://github.com/TiVoHomeUser/DigiTemp/blob/master/images/DigiTemp5a.png )
 
  Live:
  2 self signed jar files requires Java plugin in browser
